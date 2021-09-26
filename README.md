@@ -1,4 +1,4 @@
-# Everyone puts these in their profiles so why wouldn't I do the same?
+# Everyone puts these in their profiles, so why wouldn't I do the same?
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarviL82&show_icons=true&theme=synthwave&hide_border=true&title_color=03fcb1)
 
