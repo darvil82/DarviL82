@@ -1,8 +1,15 @@
 # DarviL
 
-There's a bio under my profile picture, not sure if I should put that here instead.
-I guess it would be a better idea now that I think about it, since we now have the ability to place anything we want in our profile READMEs.
-But it also looks great there... You know what? I will leave it there for a while. Oh yeah hello, my name is David and I don't really have a lot to say.
+Huhh okay so let me just copy and paste my bio at the left here:
+
+> I am someone who loves everything related to technology, and how it works. I love the *old stuff* and `programming`.
+> Long life open source and **Linux**!
+
+Exactly, you guessed it. I'm a **massive nerd** indeed.
+
+I also enjoy creating maps on the Source engine I guess.
+
+<br>
 
 Alright great, but now look at this images, don't they look cool on a GitHub profile? People seems to like them.
 
