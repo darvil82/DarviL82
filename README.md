@@ -3,7 +3,7 @@
 Huhh okay so let me just copy and paste my bio at the left here:
 
 > I am someone who loves everything related to technology, and how it works. I love the *old stuff* and `programming`.
-> Long life open source and **Linux**!
+> Long live open source and **Linux**!
 
 Exactly, you guessed it. I'm a **massive nerd** indeed.
 
