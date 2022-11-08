@@ -29,3 +29,8 @@ Almost forgot, I am available on this sites:
 <a href="https://codepen.io/darvil82"> **Codepen**
 
 <a href="https://ko-fi.com/darvil"> <img width="25px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png"> **Kofi** </a>
+
+## Some other stuff about me
+* Always tabs for indentation, I'm not crazy.
+* Pointers always left-aligned, I'm not a psycopath.
+* I love clean code. I can't believe I need to say this.
