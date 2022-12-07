@@ -11,7 +11,7 @@ I also enjoy creating maps on the Source engine I guess.
 
 <br>
 
-Alright great, but now look at this images, don't they look cool on a GitHub profile? People seems to like them.
+Alright great, but now look at these images, don't they look cool on a GitHub profile? People seem to like them.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarviL82&show_icons=true&theme=synthwave&hide_border=true&title_color=03fcb1)
 
@@ -20,7 +20,7 @@ Alright great, but now look at this images, don't they look cool on a GitHub pro
 
 ---
 
-Almost forgot, I am available on this sites:
+Almost forgot, I am available on these sites:
 
 <a href="https://discord.gg"> <img width="25px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"> **Discord:** DarviL#3242 </a>
 
