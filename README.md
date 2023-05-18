@@ -24,8 +24,6 @@ Almost forgot, I am available on these sites:
 
 <a href="https://discord.gg"> <img width="25px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"> **Discord:** DarviL#3242 </a>
 
-<a href="https://twitter.com/DarviL82_"> <img width="25px" src="https://user-images.githubusercontent.com/48654552/136849087-8bf434c0-e649-4d15-ae7c-d5bd9765e40f.png"> **Twitter:** @DarviL82_ </a>
-
 <a href="https://codepen.io/darvil82"> **Codepen**
 
 <a href="https://ko-fi.com/darvil"> <img width="25px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png"> **Kofi** </a>
