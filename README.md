@@ -22,7 +22,7 @@ Alright great, but now look at these images, don't they look cool on a GitHub pr
 
 Almost forgot, I am available on these sites:
 
-<a href="https://discord.gg"> <img width="25px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"> **Discord:** DarviL#3242 </a>
+<a href="https://discord.gg"> <img width="25px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"> **Discord:** DarviL#7727 </a>
 
 <a href="https://codepen.io/darvil82"> **Codepen**
 
