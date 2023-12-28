@@ -7,8 +7,6 @@ Huhh okay so let me just copy and paste my bio at the left here:
 
 Exactly, you guessed it. I'm a **massive nerd** indeed.
 
-I also enjoy creating maps on the Source engine I guess.
-
 <br>
 
 Alright great, but now look at these images, don't they look cool on a GitHub profile? People seem to like them.
