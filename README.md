@@ -5,8 +5,8 @@ I'm David, and I LOVE everything related to technology, and especially how it wo
 Great, but now look at these images, don't they look cool on a GitHub profile? People seem to like them.
 
 <kbd>
-  <img src="https://github-readme-stats.vercel.app/api?username=DarviL82&show_icons=true&theme=synthwave&hide_border=true&title_color=03fcb1" height=225>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarviL82&layout=compact&langs_count=10" height=225 >
+  <img src="https://github-readme-stats.vercel.app/api?username=DarviL82&show_icons=true&theme=synthwave&hide_border=true&title_color=03fcb1" height=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarviL82&layout=compact&langs_count=10" height=200 >
 </kbd>
 
 ## Some other stuff about me
