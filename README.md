@@ -1,5 +1,3 @@
-# Hey! 🌊
-
 I'm David, and I LOVE everything related to technology, and especially how it works. I find old tech fascinating and programming is likely my favorite hobby.
 
 Great, but now look at these images, don't they look cool on a GitHub profile? People seem to like them.
