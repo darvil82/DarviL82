@@ -7,10 +7,9 @@ Great, but now look at these images, don't they look cool on a GitHub profile? P
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarviL82&layout=compact&langs_count=10" height=200 >
 </kbd>
 
-## Some other stuff about me
-* Always tabs for indentation, I'm not crazy.
-* Pointers always left-aligned, I'm not a psycopath.
-* I love clean code. I can't believe I need to say this.
+### Some other stuff about me
+* Yes, I am weird.
+* I love reading and writing clean code!
 
 
 ---
